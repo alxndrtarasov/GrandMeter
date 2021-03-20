@@ -4,7 +4,7 @@ grpcio==1.19.0
 grpcio-tools==1.19.0
 iroha===0.0.5.2
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 protobuf==3.7.1
 six==1.12.0
